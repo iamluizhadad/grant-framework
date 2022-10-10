@@ -4,7 +4,7 @@
 - **Team Name:** Cambiatus
 - **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
-- **Pomelo Grant(s):** (https://gitcoin.co/grants/7379/cambiatus-new-organizations-for-the-planet-regene)
+- **Pomelo Grant(s):** (https://pomelo.io/grants/cambiatus)
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** (https://github.com/cambiatus)
@@ -31,14 +31,15 @@
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+
+- Data models of the core functionality - Lucca
+- API specifications of the core functionality - Lucca
+- An overview of the technology stack to be used - Lucca
+- Documentation of core components, protocols, architecture, etc. to be deployed - Lucca
+- PoC/MVP or other relevant prior work or research on the topic - Apresentação que está com a Ju
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - Falar do decouple
 
 ### Ecosystem Fit
 
@@ -133,6 +134,10 @@ For each milestone,
 > - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
 > - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
 > - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+
+Short: Interfaces → Criação edição deleção atribuição de roles nas comunidades
+Medium: Adapção de ações para utilizar roles
+Long: uso de roles em outras partes do app como loja, perfil do usuário
 
 ### Milestone 1 Example — Implement EOSIO Application
 
